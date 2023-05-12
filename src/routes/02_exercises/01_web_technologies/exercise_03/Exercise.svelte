@@ -1,0 +1,1 @@
+<p>The best visual channels ordered by Mackinlay's ranking:" and an ordered list containing the items: position, length, and angle.</p>
